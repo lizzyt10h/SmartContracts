@@ -1,0 +1,13 @@
+{
+  "name": "SmartContracts",
+  "version": "1.0.0",
+  "description": "A simple smart contract using solidity.",
+  "main": "truffle.js",
+  "repository": "git@github.com:lizzyt10h/SmartContracts.git",
+  "author": "Lizzy Tengana <lizzyt10h@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
